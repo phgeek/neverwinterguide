@@ -1,11 +1,17 @@
-# A Dungeon Master's Guide to Neverwinter
+### About This Project
 
-This guide was created to provide DMs with the necessary information about Neverwinter as it exists for the Fifth Edition of Dungeons & Dragons, particularly in the early 1490s DR. If you're here, it likely means you would like to contribute to this guide in some way - either by correcting some information or adding content.
+🇺🇸 This project is an independent translation of the incredible book _[A Dungeon Master's Guide to Neverwinter](https://github.com/jacobjohnston/neverwinterguide)_ into Brazilian Portuguese. Many thanks to ***Jacob Johnston***.
 
-# How Do I Work With This Guide
+🇧🇷 Este projeto é uma tradução não oficial do incrível livro _[Um Guia do Mestre para Neverwinter](https://github.com/jacobjohnston/neverwinterguide)_ para o português brasileiro. Muito obrigado a ***Jacob Johnston***.
 
-*A Dungeon Master's Guide to Neverwinter* is written in Markdown - specifically, in a format so that it works with [EncounterPlus's Module Packer](https://github.com/encounterplus/module-packer) or the corresponding [EncounterPlus Markdown Extension](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) for [Visual Studio Code](https://code.visualstudio.com).
+# Um Guia do Mestre para Neverwinter
 
-If you would like to contribute a simple fix for a typo or recommend a simple change, then these tools are absolutely not necessary. Markdown is a simple text file, and you can use whatever text editor you would like. However, if you would like to modify the document in a substantial way, or rebuild the document PDF/Module with modifications, then you will want to install one of these tools.
+Este guia foi criado para fornecer aos Mestres as informações necessárias sobre Neverwinter, conforme consta na 5ª Edição de Dungeons & Dragons, especialmente no início da década de 1490 DR. Se você chegou até aqui, provavelmente quer contribuir para este guia de alguma forma, seja corrigindo alguma informação ou adicionando conteúdo.
 
-Don't hesitate to [reach out to me](https://inchoatethoughts.com/contact) with questions or if you need help getting bootstrapped!
+# Como Trabalhar com Este Guia
+
+*Guia do Mestre para Neverwinter* foi escrito em Markdown - especificamente, em um formato que funciona com o [EncounterPlus's Module Packer](https://github.com/encounterplus/module-packer) ou com a extensão correspondente [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown)  para o [Visual Studio Code](https://code.visualstudio.com).
+
+Se você quiser contribuir com uma correção simples para um erro de digitação ou recomendar uma alteração simples, essas ferramentas não são absolutamente necessárias. O Markdown é um arquivo de texto simples e você pode usar qualquer editor de texto que desejar. No entanto, se quiser modificar o documento de forma substancial ou reconstruir o PDF/Módulo do documento com as modificações, você precisará instalar uma dessas ferramentas.
+
+Não hesite em entrar em contato comigo caso tenha dúvidas ou precise de ajuda para começar!
