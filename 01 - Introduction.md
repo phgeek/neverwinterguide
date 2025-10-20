@@ -5,107 +5,109 @@ order: 10
 module-pagebreaks: h1, h2
 ---
 
-> *A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
+> *Um Guia do Mestre para Neverwinter* é um Conteúdo de Fã não oficial, permitido pela Política de Conteúdo de Fã. Não aprovado/endossado pela Wizards. Partes dos materiais utilizados são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
 
-# Introduction
+# Introdução
 
-Welcome, Dungeon Masters! If you're looking at this guide, you're undoubtedly looking for information or resources related to the captivatingly magical city of Neverwinter. This guide was created to provide DMs with the necessary information about Neverwinter as it exists for the Fifth Edition of Dungeons & Dragons, particularly in the early 1490s DR. {.no-fancy}
+Bem-vindos, Mestres de Jogo! Se você está lendo este guia, sem dúvida está procurando informações ou recursos relacionados à cativante e mágica cidade de Neverwinter. Este guia foi criado para fornecer aos Mestres as informações necessárias sobre Neverwinter, conforme a 5ª Edição de Dungeons & Dragons, especialmente no início da década de 1490 DR. {.no-fancy}
 
-Many Dungeon Masters have started their campaigns, and often their role as a DM, using either of the wonderful [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) or [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip) starter adventures. While these adventures provide plenty to do in the small town of Phandalin and its surrounding areas, they're also placed *temptingly* close to the city of Neverwinter on the Sword Coast. It's not uncommon for players to ask to visit the city of Neverwinter. This can feel overwhelmingly difficult for unprepared DMs to manage (especially newer DMs). Not a tremendous amount has been described about Neverwinter as it exists in the Fifth Edition of D&D, so a diligent DM might feel compelled to scour through loads of out-of-print material. This guide attempts to consolidate much of that information and help all seeking to venture into Neverwinter.
+Muitos Mestres de Jogo começaram suas campanhas, e frequentemente seu papel como Mestre, usando uma das maravilhosas aventuras iniciais Mina Perdida de Phandelver ou Dragão do Pico da Espiral de Gelo. Embora essas aventuras ofereçam muito o que fazer na pequena cidade de Phandalin e seus arredores, elas também estão localizadas tentadoramente perto da cidade de Neverwinter, na Costa da Espada. Não é incomum que jogadores peçam para visitar a cidade de Neverwinter. Isso pode ser extremamente difícil para Mestres de Jogo despreparados (especialmente Mestres mais novos). Não há muita descrição sobre Neverwinter como ela existe na Quinta Edição de D&D, então um Mestre diligente pode se sentir compelido a vasculhar um monte de material fora de catálogo. Este guia tenta consolidar muitas dessas informações e ajudar todos que buscam se aventurar em Neverwinter.
 
-## About this Guide
+Muitos Mestres de Jogo começaram suas campanhas, e frequentemente seu papel como Mestre, usando uma das maravilhosas aventuras iniciais [A Mina Perdida de Phandelver](https://www.dndbeyond.com/sources/lmop) ou [Dragão do Pico da Espiral Gelada](https://www.dndbeyond.com/sources/doip). Embora essas aventuras ofereçam muito o que fazer na pequena cidade de Phandalin e seus arredores, elas também estão localizadas *tentadoramente* perto da cidade de Neverwinter, na Costa da Espada. Não é incomum que jogadores peçam para visitar a cidade de Neverwinter. Isso pode ser extremamente difícil para Mestres de Jogo despreparados (especialmente Mestres mais novos). Não há muita descrição sobre Neverwinter como ela existe na 5ª Edição de D&D, então um Mestre diligente pode se sentir compelido a vasculhar um monte de material fora de catálogo. Este guia tenta consolidar muitas dessas informações e ajudar todos que buscam se aventurar em Neverwinter.
 
-This guide has two primary goals: 
-1. To provide accurate information about Neverwinter as it comes from official Dungeons & Dragons Source Books and Adventures. Information that is *not* from such a source will be clearly marked. 
-2. To provide Dungeon Masters with a set of tools and ideas to help them craft an adventure should their table decide to wander into Neverwinter.
+## Sobre este Guia
 
-A secondary goal of this guide is to be compatible with the wealth of existing official adventures out there. In particular, the homebrew ideas and shops are crafted with both of the two starting adventures, [Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop) and [Dragon of Icespire Peak](https://www.dndbeyond.com/sources/doip), in mind.
+Este guia tem dois objetivos principais: 
+1. Fornecer informações precisas sobre Neverwinter, conforme vindas dos Livros-fonte e Aventuras oficiais de Dungeons & Dragons. Informações que *não* sejam provenientes dessas fontes serão claramente identificadas. 
+2. Fornecer aos Mestres de Jogo um conjunto de ferramentas e idéias para ajudá-los a criar uma aventura caso sua mesa decida se aventurar em Neverwinter.
+
+Um objetivo secundário deste guia é ser compatível com a riqueza de aventuras oficiais existentes. Em particular, as idéias e lojas de homebrew foram elaboradas com as duas aventuras iniciais em mente, [A Mina Perdida de Phandelver](https://www.dndbeyond.com/sources/lmop) e [Dragão do Pico da Espiral Gelada](https://www.dndbeyond.com/sources/doip).
 
 ### Spoilers
 
-This is a guide for Dungeon Masters and contains a few spoilers to the events in other D&D 5th Edition adventures. In particular, some of the events of Lost Mine of Phandelver, Dragon of Icespire Peak, Storm King's Thunder, and Tyranny of Dragons/Rise of Tiamat are mentioned in this guide. If you are planning to be a player in any of those adventures, you may want to avoid this guide. If you are a player, and your Dungeon Master is going to run you through a Neverwinter setting, you may also want to avoid this guide.
+Este é um guia para Mestres de Jogo e contém alguns spoilers dos eventos de outras aventuras de D&D 5ª Edição. Em particular, alguns dos eventos de A Mina Perdida de Phandelver, O Dragão do Pico da Espiral de Gelo, O Trovão do Rei da Tempestade e Tirania dos Dragões/Ascensão de Tiamat são mencionados neste guia. Se você planeja jogar em qualquer uma dessas aventuras, talvez seja melhor evitar este guia. Se você for um jogador e seu Mestre de Jogo for guiá-lo por um cenário de Neverwinter, talvez seja melhor evitar este guia.
 
-### The "Locations" Sections
+### A Seção "Locais"
 
-The first part of this guide details the official locations of Neverwinter. This section has a wealth of resources for any campaign set in Neverwinter. We have an amazing high resolution map of the city itself and beautiful artwork for many of the city's points of interest. Be sure to check [Appendix B](point-of-interest-cards-page) for cards that list prices for goods and services, and much more. Everything in this section is from official material (save the "Dungeon Masters' Inspiration" section).
+A primeira parte deste guia detalha as localizações oficiais de Neverwinter. Esta seção contém uma riqueza de recursos para qualquer campanha ambientada em Neverwinter. Temos um mapa da cidade incrível em alta resolução e belas artes para muitos dos seus pontos de interesse. Não deixe de conferir o [Apêndice B](point-of-interest-cards-page) para ver os cartões que listam preços de bens e serviços, e muito mais. Tudo nesta seção é de material oficial (exceto a seção "Inspiração para Mestres de Jogo").
 
-Later in the guide, there is a "Homebrew Locations" section. These locations were crafted just for this guide, and are ultimately created to be utilitarian shops and locales that players might expect to exist in a city the size of Neverwinter. As these are entirely non-canonical, feel free to change them to suit your whims! [Shop cards](point-of-interest-cards-page) are provided for these as well.
+Mais adiante no guia, há uma seção "Locais Homebrew". Esses locais foram criados especialmente para este guia e foram criados, no fim das contas, para serem lojas e locais utilitários que os jogadores esperariam encontrar em uma cidade do tamanho de Neverwinter. Como são totalmente não canônicos, sinta-se à vontade para alterá-los de acordo com suas idéias! [Cartões de loja](point-of-interest-cards-page) também são fornecidos para eles.
 
-### The "Quick Adventures" Section
+### A Seção "Aventuras Rápidas"
 
-In addition to details about Neverwinter's locations and history, this guide provides small "adventures" that a DM might use to give their players something to do while in the city. These adventures are meant to be small, with only one or two encounters, and not require a long-term commitment or storyline.
+Além de detalhes sobre os locais e a história de Neverwinter, este guia oferece pequenas "aventuras" que um Mestre pode usar para dar aos seus jogadores algo para fazer enquanto estiverem na cidade. Essas aventuras devem ser curtas, com apenas um ou dois encontros, e não exigem um compromisso ou enredo de longo prazo.
 
-To run one of these Quick Adventures, Dungeon Masters would be expected to have the D&D fifth edition core rulebooks (i.e., the [Player's Handbook](https://dnd.wizards.com/products/rpg_playershandbook), [Dungeon Master's Guide](https://dnd.wizards.com/products/dungeon-masters-guide), and [Monster Manual](https://dnd.wizards.com/products/monster-manual)).
+Para executar uma dessas Aventuras Rápidas, espera-se que os Mestres de Jogo tenham os livros de regras básicos da 5ª edição de D&D (ou seja, o [Livro do Jogador](https://dnd.wizards.com/products/rpg_playershandbook), o [Guia do Mestre](https://dnd.wizards.com/products/dungeon-masters-guide) e o [Manual dos Monstros](https://dnd.wizards.com/products/monster-manual)).
 
-> When text appears in a box such as this one, it means that it is descriptive text that should be read aloud, or paraphrased, to the players. It will be used to describe scenes or provide scripted dialogue from non-player characters. {.read}
+> Quando um texto aparece em uma caixa como esta, significa que se trata de um texto descritivo que deve ser lido em voz alta ou parafraseado para os jogadores. Ele será usado para descrever cenas ou fornecer diálogos roteirizados de personagens não jogáveis. {.read}
 
 (print-page)
 
-### Dungeon Masters' Inspiration
+### Inspiração para Mestres de Jogo
 
-Throughout this guide, ideas are suggested on how a Dungeon Master might choose to use some particular location or information in their own campaign. It's totally normal to feel paralyzed by the scope of running your campaign through a big city, so consider using a few of these ideas as seeds for adventure and intrigue.
+Ao longo deste guia, são sugeridas idéias sobre como um Mestre de Jogo pode escolher usar determinado local ou informação em sua própria campanha. É totalmente normal se sentir paralisado pelo escopo de conduzir sua campanha em uma cidade grande, então considere usar algumas dessas idéias como sementes para aventura e intriga.
 
-These DM Ideas will be marked in a box that looks like the one below:
+Essas idéias de Mestre serão marcadas em uma caixa semelhante à mostrada abaixo:
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**Inspiração para Mestres de Jogo**|
 |---|
-|***Idea 1***. This would be the first idea.|
-|***Idea 2***. This would be the second idea.|
+|***Idéia 1***. Essa seria a primeira idéa.|
+|***Idéia 2***. Essa seria a segunda idéia.|
 {.dmidea}
 
-### Source Reading Material
+### Leitura de Material Fonte
 
-This guide aims to be diligent in achieving accuracy with officially published source material. You may see this book symbol below with references on where you may go to find further reading on a particular location or topic.
+Este guia visa ser diligente na precisão de materiais de fontes oficialmente publicadas. Você pode ver este símbolo de livro abaixo com referências sobre onde você pode encontrar leituras adicionais sobre um local ou tópico específico.
 
-|![Book](book.svg)**Read More**|
+|![Book](book.svg)**Leia Mais**|
 |---|
-|*Example Reference 1*, p. XXX - XXX, (Nth Edition)|
-|*Example Reference 2*, p. XXX - XXX, (Nth Edition)|
+|*Referência de Exemplo 1*, p. XXX - XXX, (5ª Edição)|
+|*Referência de Exemplo 2*, p. XXX - XXX, (5ª Edição)|
 {.references}
 
-While this guide strives to make the information as current as possible, much of the material referenced comes from materials authored for older editions of Dungeons & Dragons (as described at the end of each reference). As such, it may or may not be official canon for Fifth Edition. Read more about the official [D&D Canon Policy](https://dnd.wizards.com/dndstudioblog/dnd-canon).
+Embora este guia se esforce para manter as informações o mais atualizadas possível, grande parte do material referenciado provém de materiais criados para edições mais antigas de Dungeons & Dragons (conforme descrito no final de cada referência). Portanto, pode ou não ser um material oficial da 5ª Edição. Saiba mais sobre a [Política do Material de D&D](https://dnd.wizards.com/dndstudioblog/dnd-canon) oficial.
 
-### Homebrew Content
+### Conteúdo Homebrew
 
-Whenever you see the mug icon below, it means the section is "Homebrew" content. That is, this content was made up for this guide and is not a part of any official Forgotten Realms lore or canon. In such sections, it is entirely acceptable to change the names and demeanor of NPCs, stores, inns, items, etc. to fit *your* campaign.
+Sempre que você vir o ícone de caneca abaixo, significa que a seção é de conteúdo "Homebrew". Ou seja, este conteúdo foi criado para este guia e não faz parte de nenhuma coletânea ou material oficial de Forgotten Realms. Nessas seções, é perfeitamente aceitável alterar os nomes e o comportamento de PNJs, lojas, estalagens, itens, etc., para se adequar à *sua* campanha.
 
-|![Homebrew](mug.svg)**Homebrew Content**|
+|![Homebrew](mug.svg)**Conteúdo Homebrew**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Esta seção é um local não oficial de Neverwinter, criado para este guia. Personalize-o para *sua* campanha!|
 {.homebrew}
 
-### Virtual Tabletops
+### Mesas Virtuais (VTT)
 
-This guide was designed with virtual tabletop (VTT) software in mind. If you have come across this guide in PDF form, but need maps, tokens, images or other resources for your Virtual Tabletop, please visit [the website for this guide](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) where all of the resources can be downloaded for free. Official modules for this guide can be found for [EncounterPlus](https://encounter.plus).
+Este guia foi desenvolvido com o software de mesa virtual (VTT) em mente. Se você encontrou este guia em PDF, mas precisa de mapas, fichas, imagens ou outros recursos para sua Mesa Virtual, visite [o site deste guia](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter), onde todos os recursos podem ser baixados gratuitamente. Módulos oficiais deste guia podem ser encontrados para [EncounterPlus](https://encounter.plus).
 
-### Contributing
+### Contribuindo
 
-This guide is open source! This means that if you find any errors in this guide and wish to contribute, you may do so by going to the [source repository](https://github.com/jacobjohnston/neverwinterguide) for this guide and submitting your suggested changes. If your changes are accepted, you will have your name added to the list of contributors in the credits!
+Este guia é de código aberto! Isso significa que, se você encontrar algum erro neste guia e quiser contribuir, poderá fazê-lo acessando o [repositório de código-fonte](https://github.com/jacobjohnston/neverwinterguide) deste guia e enviando suas sugestões de alterações. Se suas alterações forem aceitas, seu nome será adicionado à lista de contribuidores nos créditos!
 
-### Using Content From this Guide
+### Usando o Conteúdo deste Guia
 
-In general, redistribution of this guide's content is allowed and encouraged! The content of this guide is released under Wizards of the Coasts' Fan Content Policy. This requires, among other things, that the content always be made available for free. It's also politely requested that you provide attribution/credit for content from this guide where possible.
+Em geral, a redistribuição do conteúdo deste guia é permitida e incentivada! O conteúdo deste guia é divulgado de acordo com a Política de Conteúdo de Fãs da Wizards of the Coasts. Isso exige, entre outras coisas, que o conteúdo seja sempre disponibilizado gratuitamente. Também solicitamos educadamente que você forneça os créditos pelo conteúdo deste guia sempre que possível.
 
-**Can I use this content in my campaign with my players?**
+**Posso usar este conteúdo na minha campanha com meus jogadores?**
 
-Absolutely!
+Com certeza!
 
-**Can I post this PDF to \[my favorite website\]?**
+**Posso publicar este PDF no [meu site favorito]?**
 
-Go for it!
+Vá em frente!
 
-**Can I create and distribute a module of this content for \[my favorite VTT\]?**
+**Posso criar e distribuir um módulo deste conteúdo para o [meu VTT favorito]?**
 
-Yes! However, a module with any of the non-homebrew content from this guide would be expected to also follow Wizards of the Coast's Fan Content policy and, thus, should also be made available for free. Please give proper [credit](credits) to the artists and authors of this guide!
+Sim! No entanto, espera-se que um módulo com qualquer conteúdo não-homebrew deste guia também siga a política de Conteúdo de Fãs da Wizards of the Coast e, portanto, também seja disponibilizado gratuitamente. Por favor, dê os devidos [créditos](credits) aos artistas e autores deste guia!
 
-**Can I share the artwork in this guide (e.g., put it up on Pinterest)?**
+**Posso compartilhar a arte deste guia (por exemplo, publicá-la no Pinterest)?**
 
-Totally. It'd be awesome if you [linked](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) to this guide and/or the [artist's website](credits) when you did!
+Com certeza. Seria incrível se você colocasse um [link](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) para este guia e/ou para o [site do artista](credits) quando o fizesse!
 
-**Can I use the artwork in this module in my own content?**
+**Posso usar a arte deste módulo no meu próprio conteúdo?**
 
-Yes. Please give attribution to this guide and the [original artist](credits)!
+Sim. Por favor, dê os créditos a este guia e ao [artista original](credits)!
 
-**I have a question or suggestion not covered here!**
+**Tenho uma pergunta ou sugestão que não foi abordada aqui!**
 
-I'd love to hear from you! [Contact me here](https://inchoatethoughts.com/contact).
+Adoraria ouvir sua opinião! [Entre em contato comigo aqui](https://inchoatethoughts.com/contact).

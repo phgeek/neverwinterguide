@@ -9,8 +9,8 @@ hide-footer-text: true
 
 # Table of Contents
 
-- [Introduction](introduction) {.part}
-- [About this Guide](about-this-guide)
+- [Introdução](introduction) {.part}
+- [Sobre este Guia](about-this-guide)
 - [Locations of Neverwinter](locations-of-neverwinter) {.part}
 - [Castle Never](castle-never) {.category}
 - [Protector's Enclave](protectors-enclave) {.category}
